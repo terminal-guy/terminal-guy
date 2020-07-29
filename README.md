@@ -21,8 +21,8 @@
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img align="left" alt="Flutter" width="50px" src="https://blog.quickblox.com/wp-content/uploads/2019/08/whats-holding-mobile-app-developers-back-from-flutter.png" />
-
+<img align="left" alt="Flutter" width="26px" src="https://www.kindpng.com/picc/m/355-3557482_flutter-logo-png-transparent-png.png" />
+<img align="left" alt="Flutter" width="26px" src="https://w7.pngwing.com/pngs/666/815/png-transparent-dart-google-chrome-web-application-flutter-darts-blue-angle-triangle.png" />
 
 
 <br />
