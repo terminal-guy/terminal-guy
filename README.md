@@ -31,7 +31,7 @@
 <img align="left" alt="ATOM" width="26px" src="https://cdn.freebiesupply.com/logos/large/2x/atom-4-logo-png-transparent.png" />
 <img align="left" alt="c++" width="26" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" />
 <img align="left" alt="json" width="26" src="https://img2.pngio.com/json-file-free-interface-icons-json-png-1200_630.png" />
-<img align="left" alt="YAML" width="50" src="https://www.simultrans.com/hubfs/Blog%20Images%202017/yaml.png" />
+<img align="left" alt="YAML" width="26" src="https://www.simultrans.com/hubfs/Blog%20Images%202017/yaml.png" />
 <img align="left" alt="XD" width="50" src="https://www.subtraction.com/wp-content/uploads/2018/05/2018-05-14-adobe-xd-logo.png" />
 
 
