@@ -25,7 +25,7 @@
 <img align="left" alt="DART" width="26px" src="https://www.kindpng.com/picc/m/176-1766682_dart-programming-language-hd-png-download.png" />
 
 <img align="left" alt="Flutter" width="26px" src="https://www.pngkit.com/png/detail/824-8249199_drag-and-drop-action-in-selenium-webdriver-selenium.png" />
-<img align="left" alt="Flutter" width="30px" src="https://miro.medium.com/max/750/1*QYOB_HwZQxHGmBWA5WJt3Q.png" />
+<img align="left" alt="Flutter" width="50px" src="https://miro.medium.com/max/750/1*QYOB_HwZQxHGmBWA5WJt3Q.png" />
 
 
 <br />
