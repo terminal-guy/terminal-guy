@@ -27,7 +27,7 @@
 
 <img align="left" alt="selenium" width="26px" src="https://www.pngkit.com/png/detail/824-8249199_drag-and-drop-action-in-selenium-webdriver-selenium.png" />
 <img align="left" alt="Python" width="50px" src="https://banner2.cleanpng.com/20180712/yka/kisspng-professional-python-programmer-computer-programmin-python-logo-download-5b47725c1cc0d6.3474912915314089881178.jpg" />
-<img align="left" alt="android studio" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Android_Studio_icon.svg/1200px-Android_Studio_icon.svg.png" />
+<img align="left" alt="android studio" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Android_Studio_icon.svg/1200px-Android_Studio_icon.svg.png" />
 <img align="left" alt="ATOM" width="26px" src="https://cdn.freebiesupply.com/logos/large/2x/atom-4-logo-png-transparent.png" />
 <img align="left" alt="c++" width="26" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" />
 <img align="left" alt="json" width="40" src="https://img2.pngio.com/json-file-free-interface-icons-json-png-1200_630.png" />
