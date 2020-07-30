@@ -30,7 +30,7 @@
 <img align="left" alt="android studio" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Android_Studio_icon.svg/1200px-Android_Studio_icon.svg.png" />
 <img align="left" alt="ATOM" width="26px" src="https://cdn.freebiesupply.com/logos/large/2x/atom-4-logo-png-transparent.png" />
 <img align="left" alt="c++" width="26" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" />
-<img align="left" alt="json" width="40" src="https://img2.pngio.com/json-file-free-interface-icons-json-png-1200_630.png" />
+<img align="left" alt="json" width="50" src="https://img2.pngio.com/json-file-free-interface-icons-json-png-1200_630.png" />
 <img align="left" alt="YAML" width="26" src="https://www.simultrans.com/hubfs/Blog%20Images%202017/yaml.png" />
 <img align="left" alt="XD" width="50" src="https://www.subtraction.com/wp-content/uploads/2018/05/2018-05-14-adobe-xd-logo.png" />
 
