@@ -40,4 +40,4 @@
 
 <br />
 
-<img align="left" alt="Vishal Adhithya Github Stats" src="https://github-readme-stats.vercel.app/api?username=String-error-404&show_icons=true&hide_border=true&" />
+<img align="left" alt="Vishal Adhithya Github Stats" src="https://github-readme-stats.vercel.app/api?username=String-error-404&show_icons=true&theme=Gradient&hide_border=true&" />
