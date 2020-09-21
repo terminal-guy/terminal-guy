@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### I Am Vishal Adhithya [aka] String-error-404 
+### I Am Vishal Adhithya [aka] terminal-guy 
 
 
 
