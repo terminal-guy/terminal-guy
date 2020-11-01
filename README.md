@@ -39,5 +39,3 @@
 <br />
 
 <br />
-
-<img align="left" alt="Vishal Adhithya Github Stats" src="https://github-readme-stats.vercel.app/api?username=String-error-404&show_icons=true&theme=dracula&hide_border=true&" />
