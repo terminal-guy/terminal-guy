@@ -50,4 +50,4 @@
 
 
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=terminal-guy&repo=Doom-Nvim)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=terminal-guy&repo=Doom-Nvim)](https://github.com/terminal-guy/Doom-Nvim)
