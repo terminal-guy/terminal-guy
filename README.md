@@ -45,8 +45,9 @@
         <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=terminal-guy&show_icons=true&hide_border=true&icon_color=63c5ea&title_color=4c566a&text_color=3b4252"/>
     </a>
     </p
-    </details>
+</details>
         
+
 
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
