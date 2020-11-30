@@ -36,9 +36,7 @@
 
 
 
-<br />
-
-<br />
+<br>
 
 <details>
 <summary></summary>
