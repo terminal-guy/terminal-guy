@@ -48,6 +48,6 @@
 </details>
         
 
-
+#
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=terminal-guy&repo=Doom-Nvim)](https://github.com/terminal-guy/Doom-Nvim)
