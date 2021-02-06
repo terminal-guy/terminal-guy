@@ -1,17 +1,13 @@
 ### Hi there 👋
 
-### I Am Vishal Adhithya [aka] terminal-guy 
+### I Am Vishal Adhithya [aka] terminal-guy
 
-
-
-- 🔭 I’m currently working on Flutter Project named Doom Nvim ...
+- 🔭 I’m currently working on named Doom Nvim ...
 - 🌱 I’m currently learning Everything like Flutter and Automation Stuff...
 - 🤔 I’m looking for help with collaboration with open source projects...
-- 💬 Ask me about WHAT'S MY BEST HABIT...
-- ⚡ Ask me about anything, I am happy to help
-- 🥅 GOAL FOR THIS YEAR: UPLOAD MY APPS TO THE PLAY STORE...
-- 🥅 GOAL FOR 2021: NOT YET PLANNED 
-- 📫 Reach me on:- vishaladhithya19@gmail.com ...
+- ⚡ Ask me about anything, I am happy to HELP.
+- 🥅 GOAL FOR 2021: IS TO SCORE 450 plus in 10th...
+- 📫 Reach me on:- vishaladhithya19@gmail.com
 
 ### Languages and Tools:
 
@@ -32,10 +28,7 @@
 <img align="left" alt="json" width="50" src="https://img2.pngio.com/json-file-free-interface-icons-json-png-1200_630.png" />
 <img align="left" alt="YAML" width="26" src="https://www.simultrans.com/hubfs/Blog%20Images%202017/yaml.png" />
 
-
-
-
-<br>  </br>
+<br> </br>
 
 <details>
 <summary></summary>
@@ -46,7 +39,6 @@
     </a>
     </p>
 </details>
-        
 
 #
 
