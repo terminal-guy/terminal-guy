@@ -27,8 +27,9 @@
 <img align="left" alt="json" width="50" src="https://img2.pngio.com/json-file-free-interface-icons-json-png-1200_630.png" />
 <img align="left" alt="YAML" width="26" src="https://www.simultrans.com/hubfs/Blog%20Images%202017/yaml.png" />
 
-<br> </br>
+---
 
+<div align="center">
 <details>
 <summary></summary>
     <p align="center">
@@ -38,6 +39,7 @@
     </a>
     </p>
 </details>
+</div>
 
 #
 
