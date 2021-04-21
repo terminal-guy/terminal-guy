@@ -1,5 +1,5 @@
 
-### Hi there 👋I Am Vishal Adhithya [aka] terminal-guy
+### Hi there 👋 I Am Vishal Adhithya [aka] terminal-guy
 ---
 
 - 🔭 I’m currently working on named Doom Nvim ...
