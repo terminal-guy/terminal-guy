@@ -1,6 +1,6 @@
-### Hi there 👋
 
-### I Am Vishal Adhithya [aka] terminal-guy
+### Hi there 👋I Am Vishal Adhithya [aka] terminal-guy
+---
 
 - 🔭 I’m currently working on named Doom Nvim ...
 - 🌱 I’m currently learning Everything like Flutter and Automation Stuff...
@@ -9,6 +9,7 @@
 - 🥅 GOAL FOR 2021: Build my apps and publish it to play store.
 - 📫 Reach me on:- vishaladhithya19@gmail.com
 
+--- 
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/dart/dart-original.svg" alt="java" width="40" height="40"/> </a>
