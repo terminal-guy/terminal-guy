@@ -52,4 +52,4 @@
 
 #
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=terminal-guy&repo=Doom-Nvim)](https://github.com/terminal-guy/Doom-Nvim)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=terminal-guy&repo=Doom-Nvim&theme=tokyonight&hide_border=true)](https://github.com/terminal-guy/Doom-Nvim)
