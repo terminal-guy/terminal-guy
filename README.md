@@ -27,7 +27,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/figma/figma-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> </a> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/firebase/firebase-plain.svg" alt="postman" width="40" height="40"/> </a> 
     <a href="https://github.com/puppeteer/puppeteer" target="_blank">
-     <img src="https://raw.githubusercontent.comdevicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/gimp/gimp-original.svg" alt="puppeteer" width="40" height="40"/> </a> 
+     <img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/gimp/gimp-original.svg" alt="puppeteer" width="40" height="40"/> </a> 
      <a href="https://github.com/puppeteer/puppeteer" target="_blank">
      <img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/materialui/materialui-original.svg" alt="puppeteer" width="40" height="40"/> </a> 
      <a href="https://github.com/puppeteer/puppeteer" target="_blank">
