@@ -9,23 +9,32 @@
 - 🥅 GOAL FOR 2021: Build my apps and publish it to play store.
 - 📫 Reach me on:- vishaladhithya19@gmail.com
 
-### Languages and Tools:
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="terminal" width="26px"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img align="left" alt="Flutter" width="30px" height="30" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLo5QDIzXDsUEkkptEMaSawcLPVWvodYAaCA&usqp=CAU" />
-<img align="left" alt="DART" width="26px" src="https://www.pngfind.com/pngs/m/144-1441576_dart-logo-png-transparent-dart-lang-png-download.png" />
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/dart/dart-original.svg" alt="java" width="40" height="40"/> </a>
+ <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/flutter/flutter-original.svg" alt="javascript" width="40" height="40"/> </a>
+  <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/cplusplus/cplusplus-original.svg" alt="nodejs" width="40" height="40"> </a> 
+  <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/bash/bash-plain.svg" alt="bootstrap" width="40" height="40"/> </a> 
+  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
+  <a href="https://expressjs.com" target="_blank"> <img src="https://avatars0.githubusercontent.com/u/983927?v=3&s=400" alt="express" width="40" height="40"/> </a> 
+  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
+   <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/vim/vim-original.svg" alt="mongodb" width="40" height="40"/> </a>
+    <a href="https://www.mysql.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/EmacsIcon.svg/1024px-EmacsIcon.svg.png" alt="mysql" width="40" height="40"/> </a> 
+    <a href="https://www.nginx.com" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="nginx" width="40" height="40"/> </a> 
+    <a href="https://www.arduino.cc/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/atom/atom-original.svg" alt="arduino" width="40" height="40"/> </a> 
+    <a href="https://www.php.net" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/figma/figma-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/firebase/firebase-plain.svg" alt="postman" width="40" height="40"/> </a> 
+    <a href="https://github.com/puppeteer/puppeteer" target="_blank">
+     <img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/gimp/gimp-original.svg
+" alt="puppeteer" width="40" height="40"/> </a> 
+     <a href="https://github.com/puppeteer/puppeteer" target="_blank">
+     <img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/materialui/materialui-original.svg" alt="puppeteer" width="40" height="40"/> </a> 
+     <a href="https://github.com/puppeteer/puppeteer" target="_blank">
+     <img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/github/github-original.svg" alt="puppeteer" width="40" height="40"/> </a> 
+     </p>
 
-<img align="left" alt="selenium" width="26px" src="https://www.pngkit.com/png/detail/824-8249199_drag-and-drop-action-in-selenium-webdriver-selenium.png" />
-<img align="left" alt="Python" width="50px" src="https://banner2.cleanpng.com/20180712/yka/kisspng-professional-python-programmer-computer-programmin-python-logo-download-5b47725c1cc0d6.3474912915314089881178.jpg" />
-<img align="left" alt="ATOM" width="26px" src="https://cdn.freebiesupply.com/logos/large/2x/atom-4-logo-png-transparent.png" />
-<img align="left" alt="c++" width="26" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" />
-<img align="left" alt="json" width="50" src="https://img2.pngio.com/json-file-free-interface-icons-json-png-1200_630.png" />
-<img align="left" alt="YAML" width="26" src="https://www.simultrans.com/hubfs/Blog%20Images%202017/yaml.png" />
 
 ---
 
