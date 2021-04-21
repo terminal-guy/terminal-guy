@@ -24,7 +24,7 @@
     <a href="https://www.nginx.com" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="nginx" width="40" height="40"/> </a> 
     <a href="https://www.arduino.cc/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/atom/atom-original.svg" alt="arduino" width="40" height="40"/> </a> 
     <a href="https://www.php.net" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/figma/figma-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/figma/figma-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> </a> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/firebase/firebase-plain.svg" alt="postman" width="40" height="40"/> </a> 
     <a href="https://github.com/puppeteer/puppeteer" target="_blank">
      <img src="https://raw.githubusercontent.comdevicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/gimp/gimp-original.svg" alt="puppeteer" width="40" height="40"/> </a> 
