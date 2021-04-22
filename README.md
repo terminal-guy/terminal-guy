@@ -43,7 +43,7 @@
 <summary></summary>
     <p align="center">
     <a href="#ǝɔϟlʍo" target="_blank">
- <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=terminal-guy&show_icons=true&include_all_commits=true&hide_border=false&theme=tokyonight"/>
+ <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=terminal-guy&show_icons=true&hide_border=false&theme=tokyonight"/>
 <img alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=terminal-guy&hide=html,&hide_border=false&theme=tokyonight&layout=compact"/>
            </a>
     </p>
