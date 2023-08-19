@@ -7,7 +7,6 @@
 - 🤔 I’m looking for help my with open source projects...
 - ⚡ Ask me about anything, I am happy to HELP.
 - 🥅 GOAL FOR 2021: Build my apps and publish it to play store.
-- 📫 Reach me on:- vishaladhithya19@gmail.com
 
 --- 
 
